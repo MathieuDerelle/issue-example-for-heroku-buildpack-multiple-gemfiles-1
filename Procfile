@@ -1,1 +1,1 @@
-worker: bundle exec rake test
+worker: bundle exec ruby test.rb
